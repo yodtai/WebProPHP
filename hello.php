@@ -3,10 +3,11 @@
         <title>Hello</title>
         <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
             <body>
-                <h1>Hello
-                </h1>
-                <h2>Prachinesacfsa</h2>
-                <a href='content/data.html'> ไปdata </a>
+                <?php
+                echo"<h1>Hello</h1>";
+                echo"<h2><b>Prachin</h2>";
+                
+                ?>
             </body>
         
     </head>
